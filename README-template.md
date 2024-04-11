@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/desktop-preview.jpg)
+![](./design/Screenshot%202024-04-12%20at%201.23.28%E2%80%AFAM.png)
 
 ### Links
 
