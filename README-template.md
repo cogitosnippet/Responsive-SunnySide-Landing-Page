@@ -51,4 +51,4 @@ Engaging in this project has strengthened my proficiency in layout design and ex
 
 ## Author
 
-- Website - [Gautam](https://www.your-site.com)
+- [Gautam](https://www.your-site.com)
