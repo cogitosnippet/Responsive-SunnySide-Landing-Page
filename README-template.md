@@ -46,8 +46,7 @@ Users should be able to:
 
 
 ### What I learned
-
-This project helped me to increase my grip over layout design and playing with grid display . 
+Engaging in this project has strengthened my proficiency in layout design and experimenting with grid display techniques.
 
 
 ## Author
